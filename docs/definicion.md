@@ -2,12 +2,11 @@
 
 **Programación Web (IF2003) · Grupo 603 · Primer entregable**
 
-|                           |                                                                                         |
-| ------------------------- | --------------------------------------------------------------------------------------- |
-| **Plataforma**            | Classly, espacio de estudio con inteligencia artificial para estudiantes universitarios |
-| **Equipo**                | [Integrante 1] · [Integrante 2] · [Integrante 3] · [Integrante 4]                       |
-| **Versión del documento** | 0.1 (borrador para revisión del equipo)                                                 |
-| **Fecha**                 | 26 de septiembre de 2026                                                                |
+|                |                                                                                         |
+| -------------- | --------------------------------------------------------------------------------------- |
+| **Plataforma** | Classly, espacio de estudio con inteligencia artificial para estudiantes universitarios |
+| **Equipo**     | Daniel Colorado · Juan Jose Hernandez                                                   |
+| **Fecha**      | 26 de septiembre de 2026                                                                |
 
 Este documento es la fuente de verdad del proyecto. Cada pantalla, consulta a la base de datos y decisión de código debe poder rastrearse hasta aquí; lo que no está escrito aquí no se construye, y cualquier cambio posterior se registra con un commit y en el [historial de cambios](#historial-de-cambios).
 
